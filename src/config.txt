@@ -1,0 +1,3 @@
+url=jdbc:mysql://localhost:3306/erp_db
+user=root
+password=1234

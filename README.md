@@ -6,7 +6,7 @@ Amaç, gerçek iş senaryolarını anlamak ve sürdürülebilir yazılım geliş
 
 ---
 
-## 🎯 Projenin Amacı
+##  Projenin Amacı
 
 - Java ile kurumsal yazılım mantığını kavramak  
 - Katmanlı mimari yapısını deneyimlemek  
@@ -14,7 +14,7 @@ Amaç, gerçek iş senaryolarını anlamak ve sürdürülebilir yazılım geliş
 
 ---
 
-## 🧩 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - Java
 - Swing
@@ -24,7 +24,7 @@ Amaç, gerçek iş senaryolarını anlamak ve sürdürülebilir yazılım geliş
 
 ---
 
-## 🏗️ Proje Yapısı
+##  Proje Yapısı
 
 com.company.erp
 │
@@ -42,7 +42,7 @@ com.company.erp
 
 ---
 
-## ✅ Özellikler
+##  Özellikler
 
 - Ürün ekleme
 - İş kuralları ile veri doğrulama
@@ -52,7 +52,7 @@ com.company.erp
 ---
 
 
-## 👤 Geliştirici
+##  Geliştirici
 
 Bu proje, kendimi Java ve kurumsal yazılım alanında geliştirmek amacıyla hazırlanmıştır.
 
